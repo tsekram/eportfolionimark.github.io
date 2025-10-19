@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Second Quarter Documentation</title>
+<link rel="stylesheet" href="External_Code.css" type="text/css">
+</head>
+<body>
+<hr class="design">
+<br>
+<hr class="design2">
+<br>
+
+<header class="tle">TLE-ICT</header>
+
+<nav>
+<a class="main" href="eportfolionimark.github.io/index.html" target="_self">MainPage</a>
+
+<a class="ap" href="eportfolionimark.github.io/AP.html" target="_self">AP</a>
+</nav>
+
+<br>
+<hr class="design2">
+<br>
+<hr class="design">
+<br>
+
+<nav>
+
+<a class="tle" href="file:///C:/Users/PC/Documents/E-Portfolio/TLE-ICT.html" target="_self" id="back">Go Back</a>
+
+</nav>
+
+<nav>
+<h3 class="tle">Documentation</h3>
+<a href="#buwanngwika" class="tle">BuwanNgWika</a> 
+<a href="#intramurals" class="tle">Intramurals</a> 
+<a href="#sciencemonth" class="tle">ScienceMonth</a> <br>
+<a href="#apmonth" class="tle">APMonth</a> 
+<a href="#teachersday" class="tle">Teacher'sDay</a>
+<a href="#clustermeet" class="tle">ClusterMeet</a>
+</nav>
+
+
+<!--buwan ng wika-->
+
+<h2 class="tle" id="buwanngwika">Buwan ng Wika</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picdocu1.jpg" alt="litrato ng mga emcee">
+</div>
+
+<div class="column">
+<video autoplay loop muted>
+<source src="viddocu.mp4" type="video/mp4">
+</video>
+</div>
+
+<div class="column">
+<img src="picdocu2.jpg" alt="litrato ng mga guro">
+</div>
+</div>
+
+
+<br>
+<!--intrams-->
+
+<h2 class="tle" id="intramurals">Intramurals</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picintrams1.jpg" alt="litrato ng karantula">
+</div>
+
+<div class="column">
+<video autoplay loop muted>
+<source src="vidintrams.mp4" type="video/mp4">
+</video>
+
+<p>The Intramurals</p>
+</div>
+
+<div class="column">
+<img src="picintrams2.jpg" alt="litrato ng mga representatives">
+</div>
+</div>
+
+
+<br>
+<!--sciemonth-->
+
+<h2 class="tle" id="sciencemonth">Science Month</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picsci1.jpg" alt="litrato ng karantula">
+</div>
+
+<div class="column">
+<video autoplay loop muted>
+<source src="vidscience.mp4" type="video/mp4">
+</video>
+
+</div>
+
+<div class="column">
+<img src="picsci2.jpg" alt="litrato ng mga emcee">
+</div>
+</div>
+
+
+<br>
+<!--apmonth-->
+
+<h2 class="tle" id="apmonth">AP Month</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picap1.jpg" alt="litrato ng emcee">
+</div>
+
+<div class="column">
+<video autoplay loop muted>
+<source src="vidap.mp4" type="video/mp4">
+</video>
+
+
+</div>
+
+<div class="column">
+<img src="picap2.jpg" alt="litrato ni mark">
+</div>
+</div>
+
+
+<br>
+<!--tchersday-->
+
+<h2 class="tle" id="teachersday">Teacher's Day</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picteach1.jpg" alt="litrato ng karantula">
+</div>
+
+<div class="column">
+<video autoplay loop muted>
+<source src="vidteach.mp4" type="video/mp4">
+</video>
+
+
+</div>
+
+<div class="column">
+<img src="picteach2.jpg" alt="litrato ng mga magagandang teachers">
+</div>
+</div>
+
+
+<br>
+<!--cluster-->
+
+<h2 class="tle" id="clustermeet">Cluster Meet</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="piccluster1.jpg" alt="litrato ng karantula">
+</div>
+
+<div class="column">
+<video autoplay loop muted>
+<source src="vidcluster.mp4" type="video/mp4">
+</video>
+<p>These events are so important and we can learn so much about them. 
+<br> Learnings such as sportsmanship, appreciation, and being humble. <br>It is important to have an event for each subject to further appreciate its learnings or teachings, and to showcase your skills in the subject by participating in their events. I participated in some events, and I found it amazing and I hope to join some in the future.</p>
+
+</div>
+
+<div class="column">
+<img src="piccluster2.jpg" alt="litrato ng mga volleyball players">
+</div>
+</div>
+
+<nav>
+<a class="tle" href="#back">Go Back Up</a>
+</nav>
+
+</body>
+</html>

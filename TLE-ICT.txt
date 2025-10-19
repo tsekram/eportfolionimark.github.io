@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TLE-ICT</title>
+<link rel="stylesheet" href="External_Code.css" type="text/css">
+</head>
+<body>
+<hr class="design">
+<br>
+<hr class="design2">
+<br>
+
+<header class="tle">TLE-ICT</header>
+
+<nav>
+<a class="main" href="eportfolionimark.github.io/index.html" target="_self">MainPage</a>
+
+<a class="ap" href="eportfolionimark.github.io/AP.html" target="_self">AP</a>
+</nav>
+
+<br>
+<hr class="design2">
+<br>
+<hr class="design">
+<br>
+
+<nav>
+<a class="tle" href="file:///C:/Users/PC/Documents/E-Portfolio/Documentation.html" target="_self">2nd Quarter Documentation</a>
+
+<a class="tle" href="file:///C:/Users/PC/Documents/E-Portfolio/TLE-ICT%20Lessons.html" target="_self">TLE-ICT Lessons</a>
+</nav>
+</body>
+</html>
