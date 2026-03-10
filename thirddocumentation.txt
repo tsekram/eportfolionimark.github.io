@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Third Quarter Documentation</title>
+<link rel="stylesheet" href="External_Code.css" type="text/css">
+</head>
+<body>
+<hr class="design">
+<br>
+<hr class="design2">
+<br>
+
+<header class="tle">TLE-ICT</header>
+
+<nav>
+<a class="main" href="thirdqtr.html" target="_self">MainPage</a>
+</nav>
+
+<br>
+<hr class="design2">
+<br>
+<hr class="design">
+<br>
+
+<nav>
+
+<a class="tle" href="thirdtleict.html" target="_self" id="back">Go Back</a>
+
+</nav>
+
+<nav>
+<h3 class="tle">Documentation</h3>
+<a href="#englishmonth" class="tle">EnglishMonth</a> 
+<a href="#valuesmonth" class="tle">ValuesMonth</a> 
+<a href="#mathmonth" class="tle">MathMonth</a> <br>
+
+</nav>
+
+
+<h2 class="blue" id="english month">English Month</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picenglish1.jpg" alt="litrato ng ....aladin">
+</div>
+
+<div class="column">
+<p>3rd Quarter was short, and we are slowly feeling the pace quickening as another school year comes to an end. Nevertheless, I got to participate in some experiences foreign to my comfort zone in English month, Values month, as well as Math month.<br><br>
+
+I decided to join Booklandia since they were needing a replacement for a male partner for Jasmine from Aladdin, and I, avoiding the responsibility of representing my section in values month, said to myself, "YOLO."
+Reflecting back from the competition and the entirety of the month, I learned and gained so much experiences and new things from it. This month is a prominent event in my highschool career, and I won't forget the activities that the English Club gave us.</p>
+
+</div>
+
+<div class="column">
+<img src="picenglish2.jpg" alt="litrato ng ??hybrid">
+</div>
+</div>
+
+
+<br>
+
+<h2 class="tle" id="valuesmonth">Values Month</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picvalues1.JPG" alt="litrato ng six seven mikamiks">
+</div>
+
+<div class="column">
+<p>In December, the Values month's VPOP competition is one of the two stars of the show other than MVP, and it is one of the events in a school year in LPSci that I can't deny getting excited about. <br><br>
+Although there were some ups and down during our practices, we managed to bring a great show to the dinner table. But Values month was not all just about getting to strutting, dancing, and prancing, I also learned how to appreciate and take care of possesed values.</p>
+
+
+</div>
+
+<div class="column">
+<img src="picvalues2.JPG" alt="litrato ni pogi at ganda">
+</div>
+</div>
+
+
+<br>
+
+<h2 class="tle" id="mathmonth">Math Month</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picmath1.JPG" alt="litrato ng masc>
+</div>
+
+<div class="column">
+<p>After the New Year's celebration, Math month came around—a subject I favor and excel in. The club brings different activities every school year aside from the quiz bee, and in this one, they announced a variety of activities such as Math Tiktok, Math Mural, and Math Garden. <br><br>
+I would confidently say that I was very active in this month since I joined the Math mural team and managed to join the quiz bee. Although the given duration to work on the mural was abnormally short, our group still managed to happily bag the trophy. 
+</p>
+</div>
+
+<div class="column">
+<img src="picmath2.JPG" alt="litrato ng grow a garden">
+</div>
+</div>
+
+
+
+<p class="blue">All Photos are creditted to Jade Imperial from 9 - Family</p>
+
+<nav>
+<a class="tle" href="#back">Go Back Up</a>
+</nav>
+
+</body>
+</html>

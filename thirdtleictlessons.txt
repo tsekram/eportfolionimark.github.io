@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TLE-ICT Lessons</title>
+<link rel="stylesheet" href="External_Code.css" type="text/css">
+</head>
+<body>
+<hr class="design">
+<br>
+<hr class="design2">
+<br>
+
+<header class="tle">TLE-ICT</header>
+
+<nav>
+<a class="main" href="thirdqtr.html" target="_self">MainPage</a>
+</nav>
+
+<br>
+<hr class="design2">
+<br>
+<hr class="design">
+<br>
+
+<nav>
+
+<a class="tle" href="third.html" target="_self">Go Back</a>
+
+</nav>
+
+
+
+<nav>
+<h3 class="tle" id="back">TLE-ICT Lessons</h3>
+<a href="#lesson1" class="tle">Lesson 1</a> 
+<a href="#lesson2" class="tle">Lesson 2</a> 
+<a href="#lesson3" class="tle">Lesson 3</a> 
+<a href="#lesson4" class="tle">Lesson 4</a> 
+<a href="#lesson5" class="tle">Lesson 5</a> 
+<a href="#lesson6" class="tle">Lesson 6</a> 
+
+</nav>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<h2 class="tle" id="lesson1">Lesson 1</h2>
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">Typography<h2>
+<p>Refers to the styling and arrangement of text on a
+web page using Cascading Style Sheets. It
+encompasses all the properties and techniques used
+to control how text appears to the user, ensuring
+legibility, readability, and visual appeal.
+</p>
+</div>
+
+
+<div class="columntle4">
+<h2 class="tle">Key aspects of typography in CSS <h2>
+
+<p>font-family: Specifies the typeface:<br>
+When using multiple values, the fontfamily list of font families defines the priority
+in which the browser should choose the font
+family.<br>
+The browser will look for each family on the
+user's computer and in any @font-face
+resource.<br>
+The list is prioritized from left to right: it will use
+ the first value if it's available, or go to the next
+ one, until the end of the list is reached.
+ The default font family is defined by the
+ browser preferences.</p>
+<image src="thirdlesson1pic1.JPG">
+</div>
+
+<div class="columntle5">
+
+<p>font-size: Sets the size of the text.</p>
+<image src="thirdlesson1pic2.JPG">
+</div>
+</div>
+
+
+
+
+<div class="row">
+<div class="columntle3">
+
+<p>font-weight: Defines the weight, boldness or
+thickness of the text or character.</p>
+<image src="thirdlesson1pic3.JPG">
+<image src="thirdlesson1pic4.JPG">
+</div>
+
+<div class="columntle4">
+<p>font-style: Controls whether the text is normal,
+italic, or oblique.</p>
+<image src="thirdlesson1pic5.JPG">
+</div>
+
+
+<div class="columntle5">
+<p>font-variant: Defines which glyph to use for each
+letter. Used to do small-caps or other variations.<br>
+Glyph - refers to the specific visual representation
+ of a character or symbol within a font.</p>
+<image src="thirdlesson1pic6.JPG">
+
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="columntle3">
+
+<p> line-height: Adjusts the vertical space between
+lines of text, indicates the line spacing taken up by
+each line.
+</p>
+<image src="thirdlesson1pic7.JPG">
+
+</div>
+
+<div class="columntle4">
+<p>letter-spacing: Defines the spacing between the
+characters of a block of text, controls the
+horizontal space between individual characters</p>
+<image src="thirdlesson1pic8.JPG">
+</div>
+
+
+<div class="columntle5">
+<p>text-align: Specifies the horizontal alignment of
+text (left, right, center, justify). Defines how the
+text content of the element is horizontally aligned.</p>
+<image src="thirdlesson1pic9.JPG">
+
+</div>
+</div>
+
+
+<div class="row">
+<div class="columntle3">
+
+<p>text-indent: Indents the first line of a text block
+</p>
+<image src="thirdlesson1pic10.JPG">
+
+</div>
+
+<div class="columntle4">
+<p>color: Specifies the text color.</p>
+<image src="thirdlesson1pic11.JPG">
+
+<p>white-space: Defines how the element's white
+space is handled.</p>
+<image src="thirdlesson1pic12.JPG">
+</div>
+
+
+<div class="columntle5">
+<p>
+normal - Sequences of spaces are combined into one.
+Line breaks are ignored. The text content is
+wrapped.<br>
+
+nowrap - Sequences of spaces are combined into one.
+Line breaks are ignored. The text content
+is not wrapped and remains on a single line.<br>
+
+pre - The white space is exactly preserved.
+Sequences of spaces are preserved. Lines break only
+on new lines
+
+pre-wrap - The white space is mostly preserved.
+Sequences of spaces are preserved. Lines break on
+new lines but also when reaching the end of
+the element <br>
+
+pre-line - Only new lines are preserved. Sequences
+of spaces are combined into one. Lines break on
+new lines but also when reaching the end of
+the element
+</p>
+
+</div>
+</div>
+
+
+<div class="row">
+<div class="columntle3">
+
+<p>word-spacing - Defines the spacing between words
+of a block of text.
+</p>
+<image src="thirdlesson1pic13.JPG">
+
+</div>
+
+<div class="columntle4">
+<p>word-break - Defines how words should break
+when reaching the end of a line.
+</p>
+<image src="thirdlesson1pic14.JPG">
+
+<p>text-decoration: Indicates the decoration applied.
+Adds lines to text (underline, overline, linethrough).</p>
+<image src="thirdlesson1pic15.JPG">
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="columntle3">
+
+<p>text-transform: Indicates the case of the text,
+changes the capitalization of text
+</p>
+<image src="thirdlesson1pic16.JPG">
+
+</div>
+
+<div class="columntle4">
+<p>text-shadow - Defines the shadow of the text
+content.
+</p>
+<image src="thirdlesson1pic17.JPG">
+
+<p>text-shadow:2px,6px,red (you can define a color as
+the last value.</p>
+<image src="thirdlesson1pic18.JPG">
+</div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="tle" id="lesson2">Lesson 2</h2>
+<h2 class="tle">Formatting Text with CSS<h2>
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">Indenting Text<h2>
+
+The first line of paragraph can be indented by using
+the text-indent property in CSS. Measurement of
+the indention can be in px, mm, cm, in, pt, pc, ex or
+em and in %.
+</div>
+
+<div class="columntle4">
+<h2 class="tle">Structure of CSS<h2>
+<h2 class="tle">Changing the Text Case<h2>
+<p>Change the text case by using the text-transform
+property in CSS. Text case can be specified as
+capitalize, uppercase, lowercase and none.</p>
+
+</div>
+
+<div class="columntle5">
+
+<h2 class="tle">Changing the Line Spacing</h2>
+<p>Change the line spacing using the line-height
+property in CSS</p>
+
+<h2 class="tle">Adding Background Color to a Text</h2>
+<p>Add a color behind a text without changing the
+page’s background by using the background
+property in CSS.</p>
+ 
+</div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="tle" id="lesson3">Lesson 3</h2>
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">Box Model<h2>
+<p>To understand layout using CSS, you have to use
+the box model where each element on a page exists
+in its own box wherein each box aligns with other
+boxes on the page.<br>The box model consists of margins, borders,
+padding and the actual content.</p>
+
+<image src="thirdlesson3pic1.JPG">
+</div>
+
+
+<div class="columntle4">
+<h2 class="tle">CSS allows you to...<h2>
+<ul>
+<li>Control the dimension of the box using
+the height and width properties.</li>
+<li>Define boxes for your content using the
+block level tags and the generic block level tag which is placed around other tags to organize the contents’ layout.</li>
+</ul>
+
+<image src="thirdlesson3pic2.JPG">
+
+</div>
+
+<div class="columntle5">
+
+<h2 class="tle">Element Positioning</h2>
+<p>Position property allows placing an object or
+element precisely on a page. There are four position
+schemes that you can use: static, relative, absolute
+and fixed.<br> The position can also follow or inherit the specified
+position of the body</p>
+<image src="thirdlesson3pic3.JPG">
+
+</div>
+</div>
+
+
+
+
+<div class="row">
+<div class="columntle3">
+
+<image src="thirdlesson3pic4.JPG">
+</div>
+
+
+<div class="columntle4">
+<h2 class="tle">Offset<h2>
+<ul>
+<li>Offset property allows you to set up the distance
+pf the specified element from another element.
+This will allow you to place contents of your page</li>
+in a precise position within the browser window.
+<li>Offset property works together with the position
+property.</li>
+<li>Before you can use an offset property, you have to
+set up the position property first.</li>
+</ul>
+<image src="thirdlesson3pic5.JPG">
+</div>
+
+
+<div class="columntle5">
+<h2 class="tle">Float<h2>
+<p>Float property will allow you to control where a
+specified block element will be located or placed on
+the page and where the other elements will be
+positioned in relation to the said block. When using
+the float property, it is important to set the width of
+the block for better control of the float.</p>
+<image src="thirdlesson3pic6.JPG">
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="columntle3">
+
+<image src="thirdlesson3pic7.JPG">
+<h2 class="tle">Wrapping Text around an Element<h2>
+<p>We can wrap text around an element by using the
+float property in CSS.</p>
+
+<h2 class="tle">Background Image<h2>
+<p>We can specify a background image on any element
+by setting the location as specified in the url
+(“location”).</p>
+<ul>
+<li>Background image can be repeated by using the
+background-repeat property in CSS.</li>
+<li>You can control how an image background should
+repeat in order to cover the whole area of a web
+page or the desired area.</li></ul>
+
+<image src="thirdlesson3pic8.JPG">
+</div>
+
+
+<div class="columntle4">
+<h2 class="tle">Background Position<h2>
+<p>Background can be located where the image will be
+positioned on the web page by specifying a certain
+value or keyword location.</p>
+<image src="thirdlesson3pic9.JPG">
+</div>
+
+
+<div class="columntle5">
+
+<h2 class="tle">Background Attachment<h2>
+<p>This property allows you to control how the
+background scrolls with the web page. There are
+three types: scroll, inherit and fixed.</p>
+<image src="thirdlesson3pic10.JPG">
+
+<h2 class="tle">Setting Margins<h2>
+<ul>
+<li>Margins can be set in your webpage by using the
+margin property in CSS.</li>
+<li>You can use the values for the top, bottom, left
+and right margins around an element.</li></ul>
+<image src="thirdlesson3pic11.JPG">
+
+</div>
+</div>
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="tle" id="lesson4">Lesson 4</h2>
+<h2 class="tle">Formatting Border and Table<h2>
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">Adding a Border<h2>
+<p>You can create a border, set its color, width of table,
+frame or element. You can create individual border
+sides by using border-left, border-right-width and
+border-top-style property.</p>
+
+</div>
+
+
+<div class="columntle4">
+<h2 class="tle">Border-width<h2>
+
+<p>The border-width property allows you to specify the width of the border</p>
+<image src="thirdlesson4pic1.JPG">
+</div>
+
+
+<div class="columntle5">
+<h2 class="tle">Border Color<h2>
+<p>The border-color property allows you to specify the color of the border</p>
+<image src="thirdlesson4pic2.JPG">
+
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">Border Style<h2>
+<p>The border-style property allows you to specify the style of the border.</p>
+<image src="thirdlesson4pic3.JPG">
+</div>
+
+
+<div class="columntle4">
+<h2 class="tle">Padding<h2>
+
+<p>Padding indicates the distance between the contents
+of a cell and the border around it. Padding in HTML
+works only on tables while the padding provided by
+CSS can be used on other elements as well as
+paragraphs, headings, images,etc.</p>
+<image src="thirdlesson4pic4.JPG">
+</div>
+
+
+<div class="columntle5">
+<h2 class="tle">Table Background<h2>
+<p>Background color can be added to a table using the
+background-color property in CSS</p>
+
+<h2 class="tle">Table Style<h2>
+<p>Styles can be applied to table cells such as
+highlights, color, adding banner and text-alignment</p>
+
+
+<h2 class="tle">Table Layout<h2>
+<p>table element can be used to layout your Web
+page.</p>
+
+</div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="tle" id="lesson5">Lesson 5</h2>
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">CSS Selectors<h2>
+<p>CSS selectors are used to “find” or “select” the HTML
+elements that you want to style.<br>CSS selectors are divided into 6 types:</p>
+<ol>
+<li>Class selector</li>
+<li>Element selector or Tag selector</li>
+<li>ID selector</li>
+<li>Universal selector</li>
+<li>Group selector</li>
+<li>Attribute selector</li>
+</ol>
+
+<h2 class="tle">Element Selector<h2>
+
+<p>selects HTML elements (p, div, h1, etc.) and applies
+ CSS to them</p>
+<image src="thirdlesson5pic1.JPG">
+</div>
+
+
+<div class="columntle4">
+
+<h2 class="tle">ID Selector<h2>
+<ul>
+<li>is a style applied to one element in a page.</li>
+<li>normally used once, usually in a page title or the
+ navigation part of the page.</li>
+<li>defined by “#” and uses id attribute of the HTML
+ element.</li>
+<li>ID selector selects the HTML element with a unique
+identifier (id) and adds CSS to it.</li>
+<li>it is not advisable to start an id selector with a
+ number because some browsers do not support it.</li>
+<li>the ID selector is unique and selects one unique
+element</li>
+</ul>
+<image src="thirdlesson5pic2.JPG">
+</div>
+
+
+<div class="columntle5">
+<h2 class="tle">Universal Selector<h2>
+<p>The universal selector selects every single HTML
+ element on the page. It is written using the asterisk
+ ( * ) character </p>
+<image src="thirdlesson5pic3.JPG">
+</div>
+</div>
+
+
+
+
+<div class="columntle3">
+<h2 class="tle">Group Selector<h2>
+
+<p>The group selector allows you to select multiple elements and apply the same style to all of them</p>
+<image src="thirdlesson5pic4.JPG">
+</div>
+<div class="columntle4">
+
+<h2 class="tle">Attribute Selector<h2>
+<p>The attribute selector selects elements based on specific
+ attribute values. The syntax for the attribute selector is:
+ Element[attribute]</p>
+<image src="thirdlesson5pic5.JPG">
+</div>
+
+
+<div class="columntle5">
+<p>
+When to use class selector:<br>
+Use a class selector when you want to apply the same style
+to multiple elements or when elements share a common
+category or purpose. Use class when styling many
+elements that share the same style — even if they have
+different tags.<br>
+When to use ID selector:<br>
+Use an ID selector when styling a unique element that
+appears only once on a page (like a header, footer, or main
+section).<br>
+When to use element/tag selector:<br>
+Use an element selector to style all occurrences of a specific
+HTML tag (like all p or h1).<br>
+When to use universal selector:<br>
+
+Use the universal selector when you want to style all
+elements on the page — for example, to reset margins,
+padding, or box-sizing.<br>
+When to use group selector:<br>
+Use a group selector when different elements share the same
+styling — to avoid repeating code.<br>
+When to use attribute selector:<br>
+
+Use an attribute selector when you want to style elements based
+on their HTML attributes or attribute<br>
+</p>
+</div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="tle" id="lesson6">Lesson 6</h2>
+<div class="row">
+<div class="columntle3">
+
+<h2 class="tle">Setting Dimensions<h2>
+<p>CSS can be used to manage dimensions such as
+visibility, width or height of HTML elements.</p>
+<image src="thirdlesson6pic1.JPG">
+
+</div>
+
+
+<div class="columntle4">
+
+<h2 class="tle">Pseudo-Classes and Links<h2>
+<ul>
+<li>Recall that classes are user-defined selectors that
+can be used to control individual HTML element
+formatting</li>
+<li>Pseudo-classes are defined by a colon and are not
+user-defined. Specific pseudo-classes can be used
+on specific HTML elements only</li>
+<li>The anchor element has four pseudo-classes: link,
+visited, hover and active. Each one affects the
+behavior of the anchor element.</li>
+<li>The link pseudo-class is for hyperlinks that have
+NOT yet visited.</li>
+<li>The visited pseudo-class is for visited hyperlinks.</li>
+<li>The hover pseudo-class is for hyperlinks when the
+mouse is hovered over them.</li>
+<li>The active pseudo-class is for hyperlinks when
+they are clicked.</li>
+</ul>
+</div>
+
+
+<div class="columntle5">
+<ul>
+<li>The order in which the pseudo-classes are stated is
+important.
+</li>
+
+<li>Take note of the LVHA or Link, Visited, Hover,
+Active is the order of the pseudo-classes.</li>
+</ul>
+<p>The value that you place inside {…} will be
+displayed whenever a pseudo-class property is
+performed. You can set the color of the text or
+element, its background, its decoration and many
+other characters.</p>
+<image src="thirdlesson6pic2.JPG">
+</div>
+</div>
+
+
+<nav>
+<a class="tle" href="#back">Go Back Up</a>
+</nav>
+
+
+</body>
+</html>
