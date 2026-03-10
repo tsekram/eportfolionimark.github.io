@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AP</title>
+<link rel="stylesheet" href="External_Code.css" type="text/css">
+</head>
+<body>
+<hr class="design">
+<br>
+<hr class="design2">
+<br>
+
+<header class="ap">AP</header>
+
+<nav>
+<a class="main" href="fourthqtr.html" target="_self">MainPage</a>
+
+<a class="tle" href="fourthtleict.html" target="_self">TLE-ICT</a>
+</nav>
+
+<br>
+<hr class="design2">
+<br>
+<hr class="design">
+<br>
+
+<nav>
+<h3 class="ap" id="back">4th Quarter</h3>
+<a href="#lesson1" class="ap">Lesson 1</a> 
+<a href="#lesson2" class="ap">Lesson 2</a> 
+<a href="#lesson3" class="ap">Lesson 3</a> 
+<a href="#lesson4" class="ap">Lesson 4</a> 
+<a href="#lesson5" class="ap">Lesson 5</a>
+<a href="#lesson6" class="ap">Lesson 6</a>
+</nav>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+
+
+
+
+<h2 class="ap" id="lesson1">Lesson 1 - Pambansang Kaunlaran</h2>
+
+
+<div class="row">
+<div class="column3">
+
+<h2 class="ap">Tanungin muna ang sumusunod sa sarili </h2><br>
+<p>Paano nakatutulong ang kaalaman sa pambansang ekonomiya sa pagkamit ng pambansang kaalaman?</p>
+<image src="4lesson1ap1.JPG">
+
+<div class="dropdown"><h2 class="ap">
+Ano ang pambansang kaunlaran? (Point Mouse over me)<h2>
+  
+<div class="dropdown-content">Ang <span class="red">pambansang kaunlaran</span> ay ang estado ng isang bansa kung saan tinatamo ng mga tao mula sa pinakamababang uri ng mga mamamayan ang nakakamanghang pagbabago sa ekonomiya at pamumuhay. Ngunit, <span class="green">ito ay hindi agad-agad nakakamit</span>
+</div>
+</div>
+</div>
+
+<div class="column4">
+<image src="4lesson1ap1.JPG">
+
+
+<p>Kailangang malaman ang apat na konsepto ng ito upang maunawaan ang pambansang kaunlaran.</p>
+<ol>
+<li>Pagbabago <br>
+- Tumutukoy sa pagkakaiba o pag-usad mula sa dating kalagayan tungo sa bago.</li><br><br>
+<li>Pag-unlad <br>
+- Pagbabago mula sa mababa tungo sa mataas na antas ng pamumuhay.
+- Tumutukoy sa pag-angat, pagsulong, o paglago sa pangkalahatang aspeto ng pamumuhay.</li><br><br>
+<li>Pagsulong <br>
+- Tumutukoy sa pisikal, nasusukat, at nakikitang pagbabago sa ekonomiya o lipunan<br>
+- Pag-usad tungo sa iyong layunin o goal.
+</li><br><br>
+<li>Ebolusyon <br>
+- ang proseso ng unti-unting pagbabago sa mga namamanang katangian ng mga populasyon ng organismo sa loob ng mahabang panahon.</li>
+</ol>
+
+</div>
+
+<div class="column5">
+<h2 class="blue">Dalawang Magkaibang Konsepto ng Pag-unlad </h2>
+<p>
+<span class="purple">Tradisyunal</span><br>
+- Binigyan-diin ang pag-unlad bilang pagtatamo ng patuloy na pagtaas ng antas ng income per capita nang sa gayon ay mabilis na maparami ng bansa ang kanyang output kaysa sa bilis ng paglaki ng populasyon nito.<br><br>
+<span class="blue">Makabago</span><br>
+- Isinasaad na ang pag-unlad ay dapat na kumatawan sa malawakang pagbabago sa buong sistemang panlipunan.
+</p>
+
+</div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="ap" id="lesson2">Lesson 2 - Mga Sektor ng Ekonomiya</h2>
+
+<div class="row">
+<div class="column3">
+
+<p>May mahahalagang papel na ginagampanan ang mga <span class="orange">sektor ng ekonomiya </span> upang maisakatuparan ang pagkakamit ng pambansang kaunlaran.<br><br>
+
+<span class="orange">Primarya (Agrikultura)<br> - Paglikha ng pagkain at mga hilaw na materyales. </span><br><br>
+
+<span class="red">Sekundarya (Industriya) <br>- Pagpoproseso sa mga hilaw na materyales, konstruksiyon, pagmimina, at paggawa ng mga kalakal. </span><br><br>
+
+<span class="green">Tersarya (Paglikingkod)<br> - Umaalalay sa buong yugto ng produksiyon, distribusyon, kalakalan, at pagkonsumo ng kalakal sa loob o labas ng bansa. </span>
+</p>
+
+</div>
+
+<div class="column4">
+
+<h2 class="red">Mga Salik na Maaaring Makatulong sa Pagsulong ng Ekonomiya ng Isang Bansa</h2>
+<ol>
+<li><span class="green">Likas na yaman</span><br>
+Malaki ang naitutulong ng mga likas na yaman sa pagsulong ng ekonomiya lalong-lalo na ang nga yamang-lupa, tubig, kagubatan, at mineral. Subalit hindi kasiguraduhan ang mga lakas na yaman sa mabilis na pagsulong ng isang bansa.</li><br><br>
+<li><span class="brown">Yamang-tao </span><br>
+Mas maraming output ang nalilikha sa isang banda kung maalam at may kakayahan ang mga manggagawa nito.</li><br><br>
+<li><span class="green">Kapital</span><br>
+Tulong ng mga kapital tulad ng mga makina sa mga pagawaan ay nakalikikha ng mas maraming produkto at serbisyo.</li><br><br>
+<li><span class="blue">Teknolohiya at Inobasyon</span><br>
+Nagagamit nang mas episyente ang iba pang pinagkukunangyaman upang mas maparami pa ang mga nalilikha produkto at serbisyo.</li>
+</ol>
+
+<p>Ang <span class="blue">kaunlaran</span>—<br>
+matatamo lamang ito kung "mapauunlad ang yaman ng buhay ng nga tao kaysa sa yaman ng ekonomiya". Upang matamo ito, mahalagang bigyang pansin ang pagtanggal sa mga ugat ng kawalang kalayaan tulad ng kahirapan, diskriminasyon, at hindi pagkakapantay-pantay at ng iba pang salik na naglilimita sa kakayahan ng mga mamamayan.</p>
+
+</div>
+
+<div class="column5">
+<h2 class="red">Iba't ibang ginagampanan ng mamamayang Pilipino</h2>
+<p>
+Ang pagiging <span class="orange">Mapanagutan</span>; kasama rito ang tamang pagbabayad ng buwis at nakikialam.<br><br>
+
+Ang pagiging <span class="purple">Maabilidad</span>; kasama rito ang pagbuo o pagsali sa kooperatiba at pagnenegosyo.<br><br>
+
+Ang pagiging<span class="red">Makabansa</span>; kasama rito ang pakikilahok sa pamamahala ng bansa at pagtangkilik ng sariling produkto.<br><br>
+
+Ang pagiging<span class="blue">Maalam</span>; kasama rito ang tamang pagboboto at pagpapatupad at pakikilahok sa mga proyektong pangkaunlaran sa komunidad.<br><br>
+</p>
+
+</div>
+</div>
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="ap" id="lesson3">Lesson 3 - Sektor ng Agrikultura</h2>
+
+<div class="row">
+<div class="column3">
+
+<div class="dropdown"><h2 class="ap">Ano ang ibig sabihin ng <span class="orange">Agrikultura</span>? (Point Mouse)</h2>
+  <div class="dropdown-content">Ang <span class="orange">Agrikultura</span> ay isang agham at sining na may kinalaman sa pagpaparami ng mga hayop at mga tanim o halaman.</div>
+</div>
+
+<image src="4lesson3ap1.JPG">
+
+<div class="<span class="red">Mga Gawain sa Sektor ng Agrikultura</span>
+  <div class="dropdown-content"><ul>
+<li>Pagsasaka</li>
+<li>Pangingisda</li>
+<li>Paghahayupan</li>
+<li>Paggugubat/Pagtotroso</li>
+</ul></div>
+</div>
+</div>
+
+
+<div class="column4">
+<h2 class="ap">Gampanin ng <span class="green">Pagsasaka</span></h2>
+<p>Maraming mga pangunahing pananim ang bansa, tulad ng palay, mais, niyog, tubo, saging, pinya, kape, mangga, tabko, at abaka. Ang pananim na ito ay karaniwang kinokonsumo sa loob at labas ng bansa.<br><br>Tinatayang umabot ng PHP 797.731 bilyon ang kabuuang kita mula sa pagsasaka.</p>
+
+<h2 class="ap">Gampanin ng <span class="red">Paghahayupan</span></h2>
+<p>Ang paghahayupan ay ang sangay ng agrikultura na may kinalaman sa mga hayop na itinaas para sa karne, hibla, gatas, itlog, o iba pang mga produkto. Kasama rito ang pang-araw-araw na pangangalaga, pumipili ng pag-aanak, at pagpapalaki ng mga hayop.<br><br>
+-Livestock (mga karne) at Poultry (mga itlog at gatas)</p>
+
+</div>
+
+<div class="column5">
+<h2 class="ap">Gampanin ng <span class="blue">Pangingisda</span></h2>
+<p>Itinuturing ang Pilipinas bilang isa sa mga pinakamalaking tagatustos ng isda sa buong mundo. Ito ay nauuri sa tatlo: Ang komersiyal, munisipal, at aquaculture.</p>
+
+<h2 class="ap">Gampanin ng <span class="brown">Pagtotroso</span></h2>
+<p>Patuloy na nililinang ang ating mga kagubatan bagamat tayo ay nahaharap sa suliranin ng pagkaubos ng mga yaman nito.</p>
+
+
+<h2 class="ap">Kahalagahan ng <span class="red">Agrikultura</span></h2>
+<ol>
+<li>Pinagmumulan ng pagkain</li><br><br>
+<li>Pinagkukunan ng hilaw na materyales upang makabuo ng panibagong produkto</li><br><br>
+<li>Nagkakaloob ng trabaho sa maraming Pilipino</li><br><br>
+<li>Nagpapasok ng dolyar sa ating bansa</li><br><br>
+<li>Pinagkukunan ng sobrang manggagawa patungo sa ibang sektor ng ekonomiya </li><br><br>
+</ol>
+
+</div>
+</div>
+
+
+
+<div class="row">
+<image src="4lesson3ap2.JPG">
+<div class="column3">
+
+
+
+</div>
+
+<div class="column4">
+<image src="4lesson3ap3.JPG">
+
+</div>
+
+<div class="column5">
+<image src="4lesson3ap4.JPG">
+</div>
+</div>
+
+
+<div class="row">
+<div class="column3">
+
+
+<image src="4lesson3ap5.JPG">
+</div>
+
+<div class="column4">
+
+</div>
+
+<div class="column5">
+<image src="4lesson3ap6.JPG">
+</div>
+</div>
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="ap" id="lesson4">Lesson 4 - Sektor ng <span class="purple">Industriya</span></h2>
+
+<div class="row">
+<div class="column3">
+
+<div class="dropdown"><h2 class="ap">Ano ang ibig sabihin ng<span class="purple">Industriya </span>? (Point Mouse)<h2>
+  <div class="dropdown-content">Ang <span class="purple">industriya</span> ay tumutukoy sa pagproseso ng mga hilaw na materyal at paggawa ng mga produkto na kinakailangan para sa pampublikong pamilihan.<br><br>
+Ito ay naglalayong maiproseso ang mga hilaw na materyal upang makabuo ng produkto na ginagamit ng tao</div>
+</div>
+
+<br><br><br><br><br><br><br>
+<div class="dropdown"><span class="purple">Subsektor ng Industriya (Point Mouse)</span>
+  <div class="dropdown-content"><ol>
+<li>Pagmimina (Mining)</li><br>
+<li>Pagmamanupaktura (Manufacturing)</li><br>
+<li>Konstruksyon (Construction)</li><br>
+<li>Utilities</li><br>
+</ol></div>
+</div>
+
+
+
+
+
+</div>
+
+<div class="column4">
+<h2 class="ap">Pagmimina</h2>
+<p>Ang pagkuha at pagproseso ng mga yamang mineral upang gawing tapos na produkto o kabahagi ng isang yaring kalakal
+ang mismong produkto, hilaw man o naproseso ay nagbibigay ng kita para sa bansa.
+</p>
+
+<h2 class="ap">Pagmamanupaktura</h2>
+<p>Ang paggawa ng mga produkto sa pamamagitan ng manual labor o ng mga makina kung saan nagkakaroon ng pisikal o  kemikal na transpormasyon ang mga materyal o bahagi nito sa pagbuo ng mga bagong produkto.
+</p>
+</div>
+
+<div class="column5">
+<h2 class="ap">Konstruksyion</h2>
+<p>Ang Pagtatayo ng mga gusali, estruktura, at iba pang land improvements.
+</p>
+<h2 class="ap">Utilities</h2>
+<p>Ang Pagtugon ng mga pangunahing pangangailangan ng mga mamamayan tulad ng tubig, kuryente, at gas, at paglalatag ng mga imprastraktura at angkop na teknolohiya upang maihatid ang serbisyo.
+</p>
+</div>
+</div>
+
+
+
+
+
+<div class="row">
+<div class="column3">
+
+<div class="dropdown"><span class="purple">Kahalagahan ng Sektor ng Industriya sa Pambansang Kaunlaran (Point Mouse)</span>
+  <div class="dropdown-content"><ul>
+<li>Tumatanggap ng mga produkto mula sa sektor ng agrikultura at ng serbisyo mula sa sektor ng paglilingkod</li><br>
+<li>Nagkakaloob ng hanapbuhay sa maraming Pilipino</li><br>
+<li>Nagpapasok ng dolyar sa bansa</li><br>
+<li>Nakagagamit ng makabagong Teknolohiya</li><br>
+<li>Gumagawa ng mga intermediate products (mga materyales o produkto na ginagamit sa paggawa ng iba pang produkto)</li><br>
+</ul></div>
+</div>
+
+
+
+</div>
+
+<div class="column4">
+<span class="purple">Pagkakaugnay ng Agrikultura at Industriya</span>
+<ul>
+<li>Nagmumula sa agrikultura ang mga hilaw na sangkap na ginagamit sa pagbuo ng mga produkto ng industriya.</li><br>
+<li>Ang mga ginagamit na traktora, sasakyang pangingisda, at iba pang produkto ay mula sa industriya na ginagamit ng mga magsasaka upang magkaroon ng mataas na produksyon na magbibigay ng malaking kita sa sektor ng agrikultura.</li><br>
+<li>Ang dami ng lakas-paggawa sa mga mamimili ay nagpapakita ng lubos na pagtutulungan sa mga sector ng industriya at agrikultura. </li>
+</ul>
+</div>
+
+<div class="column5">
+<ul>
+<li>Ang agrikultura ang pinagmumulan ng pagkain ng mga industriya na siyang tumutugon sa mga pagkaing kinakailangan ng mga tao.</li><br>
+<li>Ang industriya ang nagbibigay ng malaking kontribusyon sa ekonomiya.</li><br>
+<li>Ang mga sangkap ay nagkakaroon ng transpormasyon dahil sa mga lakas–paggawa na gumagawa upang madagdagan ang halaga nito at lalo pang gumanda.</li><br>
+</ul>
+
+<div class="dropdown"><span class="purple"> Suliranin ng Industriya (Point Mouse)</span>
+  <div class="dropdown-content"><p>Pondo at kompetisyon, Paghina ng lokal na industriya, at Demand</p></div>
+</div>
+
+
+
+
+</div>
+</div>
+
+<div class="row">
+<div class="column3">
+
+
+<image src="4lesson5ap1.JPG">
+</div>
+
+<div class="column4">
+
+</div>
+
+<div class="column5">
+<image src="4lesson5ap2.JPG">
+</div>
+</div>
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="ap" id="lesson5">Lesson 5 - Sektor ng Paglilingkod</h2>
+
+
+<div class="row">
+<div class="column3">
+
+<div class="dropdown"><h2 class="ap">Ano ang Sektor ng<span class="red">Paglilingkod</span>? (Point Mouse)<h2>
+  <div class="dropdown-content">Ang sektor ng <span class="red">paglilingkod</span> ay umaalalay sa buong yugto ng produksyon, distribusyon, kalakalan, at pagkonsumo ng mga produkto sa loob o labas ng bansa. Kilala rin ito bilang tersarya o ikatlong sektor ng ekonomiya matapos ang agrikultura at industriya.</div>
+</div>
+<br>
+<br><br><br><br><br><br><br><br><br><br>
+<div class="dropdown"><span class="red">Pormal na Sektor sa ilalim ng Paglilingkod(Point Mouse)</span>
+  <div class="dropdown-content"><span class="purple">Transportasyon, komunikasyon, at mga imbakan</span><br>
+Mga serbisyong pampublikong sasakyan, mga paglilingkod ng telepono at mga pinapaupahang bodega. <br>
+
+<span class="purple">Kalakalan</span><br>
+Pagpapalitan ng iba’t-ibang produkto at serbisyo.<br>
+
+<span class="purple">Pananalapi</span><br>
+ Serbisyong may kinalaman sa bangko, insurance, at pamumuhunan.<br>
+Nagbibigay ng tulong pinansyal gaya ng mga bangko, bahay-sanglaan, atbp.<br>
+<span class="purple">Paupahang bahay at Real Estate</span><br>
+Mga paupahan tulad ng mga apartment, mga developer ng subdivision, town house, at condominium.<br>
+
+<span class="purple">Paglilingkod ng Pampribado</span><br>
+Lahat ng mga paglilingkod na nagmumula sa pribadong sektor ay kabilang dito.<br>
+
+<span class="purple">Paglilingkod ng Pampubliko</span><br>
+Lahat ng paglilingkod na ipinagkakaloob ng pamahalaan.</div>
+</div>
+
+ 
+
+</div>
+
+<div class="column4">
+
+
+</div>
+
+<div class="column5">
+<image src="4lesson5ap1.JPG">
+<image src="4lesson5ap2.JPG">
+<image src="4lesson5ap3.JPG">
+</div>
+</div>
+
+                          
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="ap" id="lesson6">Lesson 6 - Impormal na Sektor</h2>
+
+
+<div class="row">
+<div class="column3">
+
+<div class="dropdown"><h2 class="ap">Ano ang <span class="yellow">Impormal na Sektor</span>?(Point Mouse)<h2>
+
+  <div class="dropdown-content">Ang sektor ng ekonomiya na walang pormal o salat sa mga dokumentong kailangan sa pagsasagawa ng gawaing pang-ekonomiya. Ang kita ng sektor na ito ay hindi naisasama sa kabuuang Gross Domestic Product (GDP) ng bansa.<br><br>
+Ito ay paraan ng mamamayan upang magkaroon ng kabuhayan/dagdag kita sa tuwing panahon ng pangangailangan at nagdudulot rin ng pagkakalikha ng mga produkto at serbisyong tutugon sa ating mga pangangailangan.</div>
+</div>
+
+<image src="4lesson6ap1.JPG">
+</div>
+
+<div class="column4">
+<image src="4lesson6ap2.JPG">
+</div>
+
+<div class="column5">
+<image src="4lesson6ap1.JPG">
+</div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<h2 class="ap" id="lesson6">Lesson 7 - Patakarang Panlabas</h2>
+
+
+<div class="row">
+<div class="column3">
+
+<div class="dropdown"><h2 class="ap">Ano ang <span class="green">Kalakalang Panlabas</span>?(Point Mouse)<h2>
+  <div class="dropdown-content">Ito ay ang palitan ng produkto at serbisyo sa pagitan ng mga bansa at nagaganap sapagkat walang bansa ang maaaring makatugon sa lahat ng kanyang pangangailangan ng walang tulong mula sa ibang bansa. </div>
+</div>
+
+<br><br><br><br><br>
+
+<div class="dropdown"><span class="green">Dahilan ng Kalakalang Panlabas (Point Mouse)</span>
+  <div class="dropdown-content">Pagkakaiba ng Teknolohiya,
+Pagkakaiba sa Pinagkukunang Yaman,
+Pagkakaiba sa Panlasa, at
+Pagkakaiba sa Halaga ng Produksyon</div>
+</div>
+
+
+
+
+
+
+
+<image src="4lesson7ap1.JPG">
+</div>
+
+<div class="column4">
+<image src="4lesson7ap2.JPG">
+</div>
+
+<image src="4lesson7ap3.JPG">
+</div>
+</div>
+
+
+
+
+<nav>
+<a class="ap" href="#back">Go Back Up</a>
+</nav>
+
+</body>
+</html>

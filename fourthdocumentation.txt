@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fourth Quarter Documentation</title>
+<link rel="stylesheet" href="External_Code.css" type="text/css">
+</head>
+<body>
+<hr class="design">
+<br>
+<hr class="design2">
+<br>
+
+<header class="tle">TLE-ICT</header>
+
+<nav>
+<a class="main" href="fourthqtr.html" target="_self">MainPage</a>
+</nav>
+<br>
+<hr class="design2">
+<br>
+<hr class="design">
+<br>
+
+<nav>
+
+<a class="tle" href="fourthtleict.html" target="_self" id="back">Go Back</a>
+
+</nav>
+
+<nav>
+<h3 class="tle">Documentation</h3>
+<a href="#mapehmonth" class="tle">MAPEHMonth</a> 
+<a href="#mitingdeavance" class="tle">MitingDeAvance</a> 
+<a href="#nolimetangere" class="tle">NoliMeTangere</a> <br>
+</nav>
+
+
+
+<h2 class="orange" id="mapehmonth">MAPEH Month</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picmapeh1.jpg" alt="litrato ng batang di sabay sa dominga">
+</div>
+
+<div class="column">
+<p>As a new quarter starts, I feel its short duration, major performance tasks, and MAPEH month's pressure reigning on me. <br>
+<br>
+To add to my Grade 9 journey, I decided to join the Street Dance competition for this school year's MAPEH month. 
+It was not just a "you only live once" fueled decision. I wanted to experience participating in this before Grade 10, where I will most likely partake in the competition again and become more active in other extracurriculars I have not done before in my recent years.</p>
+</div>
+
+<div class="column">
+<img src="picmapeh2.jpg" alt="litrato ng mga magagaling na mga musicians!!">
+</div>
+</div>
+
+
+<br>
+
+
+<h2 class="red" id="mitingdeavance">Miting de Avance</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picmiting1.JPG" alt="litrato ng sunny">
+</div>
+
+<div class="column">
+<p>Not everybody knows how important the Miting de Avance is. All are aware that the students running for their respective positions will have the second chance to redeem the student body's trust that they are capable. But not all students have it in their heart the reason or importance of why this event exists. As a student, we should all understance its purpose.<br><br>
+Miting de Avance is an example of what us students will face in the real world where we will have to vote for trustworthy candidates for the government. From the current state of our country, this event is not just something to join on just to pass the time, but a moment to practice choosing the people that will lead us and won't let us down. </p>
+
+
+
+</div>
+
+<div class="column">
+<img src="picmiting2.JPG" alt="litrato ng hirayaaaa">
+</div>
+</div>
+
+
+<br>
+
+
+<h2 class="brown" id="nolimetangere">Noli Me Tangere</h2></div>
+
+<div class="row">
+<div class="column">
+<img src="picnoli1.JPG" alt="litrato ng faithies">
+</div>
+
+<div class="column">
+<p>Grade 7 and 8, we did not have a prominent theatrical performance task (play), probably because of the lack of time to initiate this. In grade 9, I am so thankful that they decided to make some room for our Noli Me Tangere play.
+<br><br>
+Playing as Elias was a great experience—acting a prominent role aside from being a side character in the story. I would say that I did a pretty great job in expressing my role. I hope that in grade 10, they will also do a El Filibusterismo play, honing our skills and creating fun memories once more.</p>
+
+</div>
+
+<div class="column">
+<img src="picnoli2.JPG" alt="litrato ng mababang boses na elias">
+</div>
+</div>
+<div class="column">
+<p class="blue">Click the Link to watch 9 - Faith's Full Noli me Tangere Performance on Youtube!</p>
+</div>
+
+<div class="column">
+<a class="tle" href="https://www.youtube.com/watch?v=BZzZuFfydwI" target="_blank">Click Me!</a>
+</div>
+<p class="blue">All Photos are creditted to Jade Imperial from 9 - Family</p>
+
+<nav>
+<a class="tle" href="#back">Go Back Up</a>
+</nav>
+
+</body>
+</html>
